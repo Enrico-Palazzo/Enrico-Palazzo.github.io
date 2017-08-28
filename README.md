@@ -1,6 +1,6 @@
 ## Welcome
 
-[test](Enrico-Palazzo.github.io/Research.md)
+[test](Enrico-Palazzo.github.io/Research.md )
 
 My name is Felix S. Bethke, and I’m a German political scientist. My research interests are African Politics, Peace & Conflict Studies, Foreign Policy, and Sociology of Science.
 
